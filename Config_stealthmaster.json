@@ -1,0 +1,39 @@
+{
+  "stories": [
+    {
+      "id": "story1",
+      "slides": [
+        {
+          "image": "https://app.idx.ac/images/maps/Map_1.png",
+          "heading": "The Beginning",
+          "message": "Our hero sets out on a journey across the dangerous lands."
+        },
+        {
+          "image": "https://app.idx.ac/images/maps/Map_2.png",
+          "heading": "The First Encounter",
+          "message": "An unexpected enemy appears, testing their courage."
+        },
+        {
+          "image": "https://app.idx.ac/images/maps/Map_3.png",
+          "heading": "Crossroads",
+          "message": "A choice must be made, one that will shape their destiny."
+        }
+      ]
+    },
+    {
+      "id": "story2",
+      "slides": [
+        {
+          "image": "https://app.idx.ac/images/maps/Map_4.png",
+          "heading": "",
+          "message": ""
+        },
+        {
+          "image": "https://app.idx.ac/images/maps/Map_5.png",
+          "heading": "",
+          "message": ""
+        }
+      ]
+    }
+  ]
+}
