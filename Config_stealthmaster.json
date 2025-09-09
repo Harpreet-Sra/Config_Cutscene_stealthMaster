@@ -4,19 +4,14 @@
       "id": "story1",
       "slides": [
         {
-          "image": "https://app.idx.ac/images/maps/Map_1.png",
-          "heading": "The Beginning",
-          "message": "Our hero sets out on a journey across the dangerous lands."
+          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/intro_1.png",
+          "heading": "Z-Virus Breach!",
+          "message": "The infection has turned people into zombies."
         },
         {
-          "image": "https://app.idx.ac/images/maps/Map_2.png",
-          "heading": "The First Encounter",
-          "message": "An unexpected enemy appears, testing their courage."
-        },
-        {
-          "image": "https://app.idx.ac/images/maps/Map_3.png",
-          "heading": "Crossroads",
-          "message": "A choice must be made, one that will shape their destiny."
+          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/intro_2.png",
+          "heading": "You are the Sole Survivor!",
+          "message": "Exterminate the Boss.Get the Cure."
         }
       ]
     },
@@ -24,14 +19,104 @@
       "id": "story2",
       "slides": [
         {
-          "image": "https://app.idx.ac/images/maps/Map_4.png",
-          "heading": "",
-          "message": ""
+          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_1.png",
+          "heading": "Boss Defeated!",
+          "message": "A strange vial… but what is it?"
+        }
+      ]
+    },
+    {
+      "id": "story3",
+      "slides": [
+        {
+          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_2.png",
+          "heading": "Boss Defeated!",
+          "message": "Torn blueprints hint at a bigger plan."
+        }
+      ]
+    },
+    {
+      "id": "story4",
+      "slides": [
+        {
+          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_3.png",
+          "heading": "Boss Defeated!",
+          "message": "A fragment of a powerful machine."
+        }
+      ]
+    },
+    {
+      "id": "story5",
+      "slides": [
+        {
+          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_4.png",
+          "heading": "Boss Defeated!",
+          "message": "Its energy fuels the experiments."
+        }
+      ]
+    },
+    {
+      "id": "story6",
+      "slides": [
+        {
+          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_5.png",
+          "heading": "Boss Defeated!",
+          "message": "The cure feels closer than ever."
+        }
+      ]
+    },
+    {
+      "id": "story7",
+      "slides": [
+        {
+          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_6.png",
+          "heading": "Boss Defeated!",
+          "message": "Could this chip control people?"
+        }
+      ]
+    },
+    {
+      "id": "story8",
+      "slides": [
+        {
+          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_7.png",
+          "heading": "Boss Defeated!",
+          "message": "Is the scientist trying to control people?"
+        }
+      ]
+    },
+    {
+      "id": "story9",
+      "slides": [
+        {
+          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_8.png",
+          "heading": "Boss Defeated!",
+          "message": "Unstable… incomplete,yet vital."
+        }
+      ]
+    },
+    {
+      "id": "story10",
+      "slides": [
+        {
+          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_9.png",
+          "heading": "Boss Defeated!",
+          "message": "The last piece to finish the cure."
+        }
+      ]
+    },
+    {
+      "id": "story11",
+      "slides": [
+        {
+          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/End_1.png",
+          "heading": "Humanity Restored",
+          "message": "The world is safe again!"
         },
         {
-          "image": "https://app.idx.ac/images/maps/Map_5.png",
-          "heading": "",
-          "message": ""
+          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/End_2.png",
+          "heading": "But wait....",
+          "message": "Was he the saviour or the curse?"
         }
       ]
     }
