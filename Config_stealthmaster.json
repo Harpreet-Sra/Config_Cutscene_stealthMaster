@@ -110,11 +110,16 @@
       "slides": [
         {
           "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/End_1.png",
-          "heading": "Humanity Restored",
-          "message": "The world is safe again!"
+          "heading": "Mission Complete!",
+          "message": "You have got the cure!"
         },
         {
           "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/End_2.png",
+          "heading": "Humanity Restored", 
+          "message": "The World is Safe Again!"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/End_3.png",
           "heading": "But wait....",
           "message": "Was he the saviour or the curse?"
         }
