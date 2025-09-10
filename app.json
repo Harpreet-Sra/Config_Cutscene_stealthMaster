@@ -4,12 +4,12 @@
       "id": "story1",
       "slides": [
         {
-          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/intro_1.png",
+          "image": "https://cdn.yld.is/app/stealthmaster/img/i_1.png",
           "heading": "Z-Virus Breach!",
           "message": "The infection has turned people into zombies."
         },
         {
-          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/intro_2.png",
+          "image": "https://cdn.yld.is/app/stealthmaster/img/i_2.png",
           "heading": "You are the Sole Survivor!",
           "message": "Exterminate the Boss.Get the Cure."
         }
@@ -19,7 +19,7 @@
       "id": "story2",
       "slides": [
         {
-          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_1.png",
+          "image": "https://cdn.yld.is/app/stealthmaster/img/b_1.png",
           "heading": "Boss Defeated!",
           "message": "A strange vial… but what is it?"
         }
@@ -29,7 +29,7 @@
       "id": "story3",
       "slides": [
         {
-          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_2.png",
+          "image": "https://cdn.yld.is/app/stealthmaster/img/b_2.png",
           "heading": "Boss Defeated!",
           "message": "Torn blueprints hint at a bigger plan."
         }
@@ -39,7 +39,7 @@
       "id": "story4",
       "slides": [
         {
-          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_3.png",
+          "image": "https://cdn.yld.is/app/stealthmaster/img/b_3.png",
           "heading": "Boss Defeated!",
           "message": "A fragment of a powerful machine."
         }
@@ -49,7 +49,7 @@
       "id": "story5",
       "slides": [
         {
-          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_4.png",
+          "image": "https://cdn.yld.is/app/stealthmaster/img/b_4.png",
           "heading": "Boss Defeated!",
           "message": "Its energy fuels the experiments."
         }
@@ -59,7 +59,7 @@
       "id": "story6",
       "slides": [
         {
-          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_5.png",
+          "image": "https://cdn.yld.is/app/stealthmaster/img/b_5.png",
           "heading": "Boss Defeated!",
           "message": "The cure feels closer than ever."
         }
@@ -69,7 +69,7 @@
       "id": "story7",
       "slides": [
         {
-          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_6.png",
+          "image": "https://cdn.yld.is/app/stealthmaster/img/b_6.png",
           "heading": "Boss Defeated!",
           "message": "Could this chip control people?"
         }
@@ -79,7 +79,7 @@
       "id": "story8",
       "slides": [
         {
-          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_7.png",
+          "image": "https://cdn.yld.is/app/stealthmaster/img/b_7.png",
           "heading": "Boss Defeated!",
           "message": "Is the scientist trying to control people?"
         }
@@ -89,7 +89,7 @@
       "id": "story9",
       "slides": [
         {
-          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_8.png",
+          "image": "https://cdn.yld.is/app/stealthmaster/img/b_8.png",
           "heading": "Boss Defeated!",
           "message": "Unstable… incomplete,yet vital."
         }
@@ -99,7 +99,7 @@
       "id": "story10",
       "slides": [
         {
-          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/boss_9.png",
+          "image": "https://cdn.yld.is/app/stealthmaster/img/b_9.png",
           "heading": "Boss Defeated!",
           "message": "The last piece to finish the cure."
         }
@@ -109,17 +109,17 @@
       "id": "story11",
       "slides": [
         {
-          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/End_1.png",
+          "image": "https://cdn.yld.is/app/stealthmaster/img/e_1.png",
           "heading": "Mission Complete!",
           "message": "You have got the cure!"
         },
         {
-          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/End_2.png",
-          "heading": "Humanity Restored", 
+          "image": "https://cdn.yld.is/app/stealthmaster/img/e_2.png",
+          "heading": "Humanity Restored",
           "message": "The World is Safe Again!"
         },
         {
-          "image": "https://raw.githubusercontent.com/Harpreet-Sra/Config_Cutscene_stealthMaster/main/Images/End_3.png",
+          "image": "https://cdn.yld.is/app/stealthmaster/img/e_3.png",
           "heading": "But wait....",
           "message": "Was he the saviour or the curse?"
         }
